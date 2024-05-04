@@ -1,3 +1,3 @@
-module github.com/MrMighty01/package
+module github.com/MrMighty01/pack
 
 go 1.22.2
