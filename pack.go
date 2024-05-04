@@ -1,4 +1,4 @@
 package pack 
-func Hehaha() {
+func Hehaha() string {
 	return "Just my first module and function"
 }
